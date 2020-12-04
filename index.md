@@ -1,4 +1,4 @@
-## My Project List
+# My Project List
 ### Daily record blog
 A blog with a collection of articles of interest to the day.
 
@@ -20,3 +20,5 @@ An app that uses machine learning to predict the market.
 ### Deleted Video’s collection database for Youtube
 A Database for stocking deleted videos on youtube.
 
+### Music sharing app
+A Music sharing app for music. User wants to share there feeling and communicate for their favorite songs like youtube.
